@@ -29,7 +29,7 @@ Frontend Engineer
 - Email: <a href="mailto:arifin@poteto.dev">arifin.izzah15@gmail.com</a>
 - Facebook: <a href="https://www.facebook.com/arifinizz/">https://www.facebook.com/arifinizz/</a>
 - Instagram: <a href="https://www.instagram.com/arifin_izz/">https://www.instagram.com/arifineu/</a>
-- Telegram: <a href="https://t.me/arifin_izz">https://t.me/arifineu</a>-->
+- Telegram: <a href="https://t.me/arifin_izz">https://t.me/arifineu</a>
 
 ## Skills
 <p align="left">
@@ -48,7 +48,7 @@ Frontend Engineer
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 </p>
-
+-->
                     
 
 ### Stats
