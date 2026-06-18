@@ -1,30 +1,68 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/ERc5g8ThElMQM/giphy.gif">
-</p>
-
-Hi 👋 My name is Arifin Izzah
-
-Frontend Engineer
-----------------
-* 🌍 From Indonesia
-* ✉️ You can contact me at [arifin.izzah15@gmail.com](mailto:arifin.izzah15@gmail.com)
-* 🤝 I'm open for collaborating on Interesting projects
-
-<!--<p align="center">
-  <br>
   <img src="https://media3.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="200px">
-  <br><br>
-  Hi, it's me Arifin Izzah. You can call me Arifin :)
-  <br><br>
-  :hearts: I love writing and sharing things, you can check my <a href="https://medium.com/@arifineu/">Medium</a> and <a href="https://www.instagram.com/infinitedevsign/">Infinite Devsign</a> Instagram account to see my creation
-  <br>
-  I also love UI & UX design, you can also check my <a href="https://dribbble.com/arifineu">Dribbble</a> account
-  <samp>
-    <br><br>
-    Wanna collaborate? or maybe ask something? I'm open for frontend projects. 
-  </samp>
 </p>
 
+# Hi there, I'm Arifin Izzah Maulana 👋
+
+### Frontend Engineer | TypeScript | Web Quality & Test Automation
+
+I am a Frontend Engineer with over 5 years of experience building, optimizing, and maintaining robust web applications. I specialize in the **Vue/Nuxt** and **React** ecosystems using **TypeScript**. 
+
+What sets me apart is my deep focus on **software quality and stability**. I don't just build UI; I ensure it's reliable through end-to-end test automation (Playwright, CodeceptJS) and scalable application architecture.
+
+---
+
+## 🚀 Technical Expertise
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend Core** | TypeScript, JavaScript (ES6+), Vue.js, Nuxt 3, React, Next.js, Vite |
+| **State Management** | Pinia, Vuex, Zustand, React Context API |
+| **UI & Styling** | TailwindCSS, Bootstrap, Vuetify, Element Plus, SASS/SCSS |
+| **Testing & QA** | Playwright, CodeceptJS, Vitest, API Testing (Postman/Swagger) |
+| **Backend & Integrations** | Node.js, Express.js, Hono, RestAPI, GraphQL, Socket.IO, IndexedDB |
+| **DevOps & Tools** | Git, GitHub, GitLab, Cloudflare Workers, Docker, Jira, Figma |
+
+---
+
+## 🛠️ What I'm Working On
+
+* **Frontend Architecture:** Recently led a migration from a Micro Frontend architecture (Vite Federation) to a Nuxt 3 monolithic architecture to boost DX and deployment efficiency.
+* **Offline-First Experiences:** Building reliable real-time and offline capabilities using Service Workers and IndexedDB.
+* **Bulletproof Automation:** Designing test suites and custom composables to make E2E component testing a breeze.
+
+---
+
+## 📂 Highlighted Projects
+
+### 🌟 [Subtify]()
+A high-performance subtitle search app featuring server-side transcript fetching, keyword match highlighting, and deep-linked YouTube timestamps.
+* **Tech Stack:** React, TypeScript, Zustand, TailwindCSS, Hono, Cloudflare Workers, Wrangler
+
+### 💬 [SimpleChatApp]()
+A responsive, mobile-friendly chat platform featuring user auth, session persistence, and full unit test coverage.
+* **Tech Stack:** Vite, Vue 3, TypeScript, Pinia, Vitest, TailwindCSS
+
+### 📊 [SIPRI Indonesia]()
+A Nuxt-based web application built to explore and visualize defense procurement data from public datasets.
+* **Tech Stack:** Nuxt, TypeScript, TailwindCSS
+
+---
+
+## 👥 Community Involvement
+
+* **Event Organizer** @ AndroidDev Surabaya (2019 - 2024) – Managing and driving tech events in the local community.
+* **Mentor** @ IT CLUB SMK Negeri 1 Surabaya (2017 - 2019) – Shared web development fundamentals with aspiring developers.
+
+---
+
+## 📬 Connect With Me
+
+* 📍 Surabaya, Indonesia
+* 📧 [arifin.izzah15@gmail.com](mailto:arifin.izzah15@gmail.com)
+* 💼 [LinkedIn](https://linkedin.com/in/arifinizzah) <!-- Update with your LinkedIn link -->
+
+<!--
 ### Contacts
 - Email: <a href="mailto:arifin@poteto.dev">arifin.izzah15@gmail.com</a>
 - Facebook: <a href="https://www.facebook.com/arifinizz/">https://www.facebook.com/arifinizz/</a>
