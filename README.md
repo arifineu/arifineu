@@ -35,15 +35,15 @@ What sets me apart is my deep focus on **software quality and stability**. I don
 
 ## 📂 Highlighted Projects
 
-### 🌟 [Subtify]()
+### 🌟 [Subtify](https://github.com/arifineu/subtify)
 A high-performance subtitle search app featuring server-side transcript fetching, keyword match highlighting, and deep-linked YouTube timestamps.
 * **Tech Stack:** React, TypeScript, Zustand, TailwindCSS, Hono, Cloudflare Workers, Wrangler
 
-### 💬 [SimpleChatApp]()
+### 💬 [SimpleChatApp](https://github.com/arifineu/simple-chat-app)
 A responsive, mobile-friendly chat platform featuring user auth, session persistence, and full unit test coverage.
 * **Tech Stack:** Vite, Vue 3, TypeScript, Pinia, Vitest, TailwindCSS
 
-### 📊 [SIPRI Indonesia]()
+### 📊 [SIPRI Indonesia](https://github.com/arifineu/sipri-indonesia)
 A Nuxt-based web application built to explore and visualize defense procurement data from public datasets.
 * **Tech Stack:** Nuxt, TypeScript, TailwindCSS
 
