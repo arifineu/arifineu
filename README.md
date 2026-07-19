@@ -39,6 +39,10 @@ What sets me apart is my deep focus on **software quality and stability**. I don
 A high-performance subtitle search app featuring server-side transcript fetching, keyword match highlighting, and deep-linked YouTube timestamps.
 * **Tech Stack:** React, TypeScript, Zustand, TailwindCSS, Hono, Cloudflare Workers, Wrangler
 
+### 🌟 [Susi Air Pilot App](https://github.com/arifineu/susi-air-pilot-app-assessment)
+A mobile-first PWA Nuxt 4 web app for Susi Air pilots with Atomic Design and BEM CSS methodology
+* **Tech Stack:** Nuxt, TypeScript, Pinia, SCSS, Chart.js, Vitest, Storybook
+
 ### 💬 [SimpleChatApp](https://github.com/arifineu/simple-chat-app)
 A responsive, mobile-friendly chat platform featuring user auth, session persistence, and full unit test coverage.
 * **Tech Stack:** Vite, Vue 3, TypeScript, Pinia, Vitest, TailwindCSS
